@@ -9,9 +9,13 @@ Find the latest version on [Github](https://github.com):
 ``` 
  git clone https://github.com/FangGet/pangolin_android.git
 ```
+
+## Standalone Libs And Examples
+compiled libs and examples for android can be found here: [http://pan.baidu.com/s/1c2dXRXm](http://pan.baidu.com/s/1c2dXRXm);
+
 ## Dependencies
 * Android SDK;
-* Android NDK(>r5E);
+* Android NDK(>R5E);
 * Android-Cmake(given);
 
 you should have installed Android SDK in your Linux and environment variables should have been setted properly. SDK have to be updated with version>android-8.
