@@ -2,7 +2,7 @@
 a repository for pangolin on android
 
 ## MainPage
-this repository is aimed at transplant pangolin to android.The Author of Pangolin is stevenlovegrove and source:[Pangolin](https://github.com/stevenlovegrove/Pangolin).Introduction about pangolin detail can be found at author's github page. Original Pangolin contains a method to transplant it to android however hard to achieve with some errors inside the CMakeLists and source code.I made a small change for Pangolin to make it suitable for OPENGL ES/ES2.
+this repository is aimed at transplanting pangolin to android.The Author of Pangolin is stevenlovegrove and source repository is:[https://github.com/stevenlovegrove/Pangolin](https://github.com/stevenlovegrove/Pangolin).Introduction about pangolin detail can be found at source code's github page. Original Pangolin contains a method to transplant it to android however hard to achieve with some errors inside the CMakeLists and source code.I made a small change for Pangolin to make it suitable for OPENGL ES/ES2.
 
 ## Code
 Find the latest version on [Github](https://github.com):
@@ -23,6 +23,8 @@ you should have installed Android SDK in your Linux and environment variables sh
 Android NDK can be only extracted in certain directory.
 
 Android-Cmake may not perform properly on Windows.
+
+Other dependencies for pangolin can be found at[https://github.com/FangGet/pangolin_android/tree/master/Pangolin](https://github.com/FangGet/pangolin_android/tree/master/Pangolin).
 
 ## Building
 pangolin_android uses CMake portable pre-build tool. Please excute the following at a shell (or the equivelent using a GUI):
