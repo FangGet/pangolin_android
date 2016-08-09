@@ -1,8 +1,8 @@
 # pangolin_android
-a repository for pangolin on android
+A repository for pangolin on android
 
 ## MainPage
-this repository is aimed at transplanting pangolin to android.Author of Pangolin is stevenlovegrove and source repository is:[https://github.com/stevenlovegrove/Pangolin](https://github.com/stevenlovegrove/Pangolin).Introduction about Pangolin detail can be found at source code's github page. Original Pangolin contains a method to transplant it to android however hard to achieve with some errors inside the CMakeLists and source code.I made a small change for Pangolin to make it suitable for OPENGL ES/ES2.
+This repository is aimed at transplanting pangolin to android.Author of Pangolin is stevenlovegrove and source repository is:[https://github.com/stevenlovegrove/Pangolin](https://github.com/stevenlovegrove/Pangolin).Introduction about Pangolin detail can be found at source code's github page. Original Pangolin contains a method to transplant it to android however hard to achieve with some errors inside the CMakeLists and source code.I made a small change for Pangolin to make it suitable for OPENGL ES/ES2.
 
 ## Code
 Find the latest version on [Github](https://github.com):
@@ -11,14 +11,14 @@ Find the latest version on [Github](https://github.com):
 ```
 
 ## Standalone Libs And Examples
-compiled libs and examples for android can be found here: [http://pan.baidu.com/s/1c2dXRXm](http://pan.baidu.com/s/1c2dXRXm);
+Compiled libs and examples for android can be found here: [http://pan.baidu.com/s/1c2dXRXm](http://pan.baidu.com/s/1c2dXRXm);
 
 ## Dependencies
 * Android SDK;
 * Android NDK(>r5e);
 * Android-Cmake(given);
 
-you should have installed Android SDK on your Linux and environment variables should have been setted properly. SDK have to be updated with version>android-8.
+You should have installed Android SDK on your Linux and environment variables should have been setted properly. SDK have to be updated with version>android-8.
 
 Android NDK can be only extracted to certain directory.
 
